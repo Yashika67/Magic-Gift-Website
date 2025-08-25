@@ -1,0 +1,838 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class frmBrother
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.Panel2 = New System.Windows.Forms.Panel()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.prodqty1 = New System.Windows.Forms.TextBox()
+        Me.prodname1 = New System.Windows.Forms.Label()
+        Me.prodprice1 = New System.Windows.Forms.Label()
+        Me.PictureBox5 = New System.Windows.Forms.PictureBox()
+        Me.lblBrother = New System.Windows.Forms.Label()
+        Me.LineShape1 = New Microsoft.VisualBasic.PowerPacks.LineShape()
+        Me.ShapeContainer1 = New Microsoft.VisualBasic.PowerPacks.ShapeContainer()
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.prodqty2 = New System.Windows.Forms.TextBox()
+        Me.prodname2 = New System.Windows.Forms.Label()
+        Me.prodprice2 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Panel3 = New System.Windows.Forms.Panel()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.prodqty3 = New System.Windows.Forms.TextBox()
+        Me.prodname3 = New System.Windows.Forms.Label()
+        Me.prodprice3 = New System.Windows.Forms.Label()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Button4 = New System.Windows.Forms.Button()
+        Me.prodqty4 = New System.Windows.Forms.TextBox()
+        Me.prodname4 = New System.Windows.Forms.Label()
+        Me.prodprice4 = New System.Windows.Forms.Label()
+        Me.PictureBox3 = New System.Windows.Forms.PictureBox()
+        Me.Panel5 = New System.Windows.Forms.Panel()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.Button5 = New System.Windows.Forms.Button()
+        Me.prodqty5 = New System.Windows.Forms.TextBox()
+        Me.prodname5 = New System.Windows.Forms.Label()
+        Me.prodprice5 = New System.Windows.Forms.Label()
+        Me.PictureBox4 = New System.Windows.Forms.PictureBox()
+        Me.Panel6 = New System.Windows.Forms.Panel()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.Button6 = New System.Windows.Forms.Button()
+        Me.prodqty6 = New System.Windows.Forms.TextBox()
+        Me.prodname6 = New System.Windows.Forms.Label()
+        Me.prodprice6 = New System.Windows.Forms.Label()
+        Me.PictureBox6 = New System.Windows.Forms.PictureBox()
+        Me.Panel7 = New System.Windows.Forms.Panel()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.Button7 = New System.Windows.Forms.Button()
+        Me.prodqty7 = New System.Windows.Forms.TextBox()
+        Me.prodname7 = New System.Windows.Forms.Label()
+        Me.prodprice7 = New System.Windows.Forms.Label()
+        Me.PictureBox7 = New System.Windows.Forms.PictureBox()
+        Me.Panel8 = New System.Windows.Forms.Panel()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Button8 = New System.Windows.Forms.Button()
+        Me.prodqty8 = New System.Windows.Forms.TextBox()
+        Me.prodname8 = New System.Windows.Forms.Label()
+        Me.prodprice8 = New System.Windows.Forms.Label()
+        Me.PictureBox8 = New System.Windows.Forms.PictureBox()
+        Me.Panel2.SuspendLayout()
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel1.SuspendLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel3.SuspendLayout()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel4.SuspendLayout()
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel5.SuspendLayout()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel6.SuspendLayout()
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel7.SuspendLayout()
+        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel8.SuspendLayout()
+        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SuspendLayout()
+        '
+        'Panel2
+        '
+        Me.Panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel2.Controls.Add(Me.Label12)
+        Me.Panel2.Controls.Add(Me.Button1)
+        Me.Panel2.Controls.Add(Me.prodqty1)
+        Me.Panel2.Controls.Add(Me.prodname1)
+        Me.Panel2.Controls.Add(Me.prodprice1)
+        Me.Panel2.Controls.Add(Me.PictureBox5)
+        Me.Panel2.Location = New System.Drawing.Point(23, 59)
+        Me.Panel2.Name = "Panel2"
+        Me.Panel2.Size = New System.Drawing.Size(297, 247)
+        Me.Panel2.TabIndex = 35
+        '
+        'Label12
+        '
+        Me.Label12.AutoSize = True
+        Me.Label12.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label12.Location = New System.Drawing.Point(115, 217)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(35, 19)
+        Me.Label12.TabIndex = 54
+        Me.Label12.Text = "Qty:"
+        '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button1.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(193, 219)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(103, 25)
+        Me.Button1.TabIndex = 40
+        Me.Button1.Text = "Shop Now"
+        Me.Button1.UseVisualStyleBackColor = False
+        '
+        'prodqty1
+        '
+        Me.prodqty1.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty1.Location = New System.Drawing.Point(146, 214)
+        Me.prodqty1.Name = "prodqty1"
+        Me.prodqty1.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty1.TabIndex = 53
+        '
+        'prodname1
+        '
+        Me.prodname1.AutoSize = True
+        Me.prodname1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname1.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname1.Location = New System.Drawing.Point(27, 194)
+        Me.prodname1.Name = "prodname1"
+        Me.prodname1.Size = New System.Drawing.Size(233, 21)
+        Me.prodname1.TabIndex = 31
+        Me.prodname1.Text = "Brother's Birthday                            "
+        '
+        'prodprice1
+        '
+        Me.prodprice1.AutoSize = True
+        Me.prodprice1.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice1.Location = New System.Drawing.Point(33, 214)
+        Me.prodprice1.Name = "prodprice1"
+        Me.prodprice1.Size = New System.Drawing.Size(52, 19)
+        Me.prodprice1.TabIndex = 52
+        Me.prodprice1.Text = "190.00"
+        '
+        'PictureBox5
+        '
+        Me.PictureBox5.Image = Global.Magic_Gift.My.Resources.Resources.Brother_1
+        Me.PictureBox5.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox5.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox5.Name = "PictureBox5"
+        Me.PictureBox5.Size = New System.Drawing.Size(243, 188)
+        Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.PictureBox5.TabIndex = 21
+        Me.PictureBox5.TabStop = False
+        '
+        'lblBrother
+        '
+        Me.lblBrother.AutoSize = True
+        Me.lblBrother.Font = New System.Drawing.Font("Pristina", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblBrother.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.lblBrother.Location = New System.Drawing.Point(22, 9)
+        Me.lblBrother.Name = "lblBrother"
+        Me.lblBrother.Size = New System.Drawing.Size(115, 46)
+        Me.lblBrother.TabIndex = 36
+        Me.lblBrother.Text = "Brother"
+        '
+        'LineShape1
+        '
+        Me.LineShape1.BorderWidth = 2
+        Me.LineShape1.Name = "LineShape1"
+        Me.LineShape1.X1 = 23
+        Me.LineShape1.X2 = 414
+        Me.LineShape1.Y1 = 57
+        Me.LineShape1.Y2 = 57
+        '
+        'ShapeContainer1
+        '
+        Me.ShapeContainer1.Location = New System.Drawing.Point(0, 0)
+        Me.ShapeContainer1.Margin = New System.Windows.Forms.Padding(0)
+        Me.ShapeContainer1.Name = "ShapeContainer1"
+        Me.ShapeContainer1.Shapes.AddRange(New Microsoft.VisualBasic.PowerPacks.Shape() {Me.LineShape1})
+        Me.ShapeContainer1.Size = New System.Drawing.Size(1340, 600)
+        Me.ShapeContainer1.TabIndex = 37
+        Me.ShapeContainer1.TabStop = False
+        '
+        'Panel1
+        '
+        Me.Panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel1.Controls.Add(Me.Label9)
+        Me.Panel1.Controls.Add(Me.Button2)
+        Me.Panel1.Controls.Add(Me.prodqty2)
+        Me.Panel1.Controls.Add(Me.prodname2)
+        Me.Panel1.Controls.Add(Me.prodprice2)
+        Me.Panel1.Controls.Add(Me.PictureBox1)
+        Me.Panel1.Location = New System.Drawing.Point(348, 62)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(297, 241)
+        Me.Panel1.TabIndex = 38
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label9.Location = New System.Drawing.Point(116, 214)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(35, 19)
+        Me.Label9.TabIndex = 57
+        Me.Label9.Text = "Qty:"
+        '
+        'Button2
+        '
+        Me.Button2.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button2.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(193, 215)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(103, 25)
+        Me.Button2.TabIndex = 40
+        Me.Button2.Text = "Shop Now"
+        Me.Button2.UseVisualStyleBackColor = False
+        '
+        'prodqty2
+        '
+        Me.prodqty2.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty2.Location = New System.Drawing.Point(147, 211)
+        Me.prodqty2.Name = "prodqty2"
+        Me.prodqty2.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty2.TabIndex = 56
+        '
+        'prodname2
+        '
+        Me.prodname2.AutoSize = True
+        Me.prodname2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname2.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname2.Location = New System.Drawing.Point(27, 190)
+        Me.prodname2.Name = "prodname2"
+        Me.prodname2.Size = New System.Drawing.Size(225, 21)
+        Me.prodname2.TabIndex = 31
+        Me.prodname2.Text = "Brother Pebble Artwork Frame       "
+        '
+        'prodprice2
+        '
+        Me.prodprice2.AutoSize = True
+        Me.prodprice2.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice2.Location = New System.Drawing.Point(34, 211)
+        Me.prodprice2.Name = "prodprice2"
+        Me.prodprice2.Size = New System.Drawing.Size(52, 19)
+        Me.prodprice2.TabIndex = 55
+        Me.prodprice2.Text = "299.00"
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = Global.Magic_Gift.My.Resources.Resources.Brother_2
+        Me.PictureBox1.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox1.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(243, 184)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.PictureBox1.TabIndex = 21
+        Me.PictureBox1.TabStop = False
+        '
+        'Panel3
+        '
+        Me.Panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel3.Controls.Add(Me.Label11)
+        Me.Panel3.Controls.Add(Me.Button3)
+        Me.Panel3.Controls.Add(Me.prodqty3)
+        Me.Panel3.Controls.Add(Me.prodname3)
+        Me.Panel3.Controls.Add(Me.prodprice3)
+        Me.Panel3.Controls.Add(Me.PictureBox2)
+        Me.Panel3.Location = New System.Drawing.Point(685, 63)
+        Me.Panel3.Name = "Panel3"
+        Me.Panel3.Size = New System.Drawing.Size(297, 241)
+        Me.Panel3.TabIndex = 39
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label11.Location = New System.Drawing.Point(115, 213)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(35, 19)
+        Me.Label11.TabIndex = 60
+        Me.Label11.Text = "Qty:"
+        '
+        'Button3
+        '
+        Me.Button3.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button3.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Location = New System.Drawing.Point(189, 215)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(103, 25)
+        Me.Button3.TabIndex = 40
+        Me.Button3.Text = "Shop Now"
+        Me.Button3.UseVisualStyleBackColor = False
+        '
+        'prodqty3
+        '
+        Me.prodqty3.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty3.Location = New System.Drawing.Point(146, 210)
+        Me.prodqty3.Name = "prodqty3"
+        Me.prodqty3.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty3.TabIndex = 59
+        '
+        'prodname3
+        '
+        Me.prodname3.AutoSize = True
+        Me.prodname3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname3.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname3.Location = New System.Drawing.Point(27, 190)
+        Me.prodname3.Name = "prodname3"
+        Me.prodname3.Size = New System.Drawing.Size(237, 21)
+        Me.prodname3.TabIndex = 31
+        Me.prodname3.Text = "Brother's Gift                                    "
+        '
+        'prodprice3
+        '
+        Me.prodprice3.AutoSize = True
+        Me.prodprice3.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice3.Location = New System.Drawing.Point(33, 210)
+        Me.prodprice3.Name = "prodprice3"
+        Me.prodprice3.Size = New System.Drawing.Size(52, 19)
+        Me.prodprice3.TabIndex = 58
+        Me.prodprice3.Text = "249.00"
+        '
+        'PictureBox2
+        '
+        Me.PictureBox2.Image = Global.Magic_Gift.My.Resources.Resources.Brother_3
+        Me.PictureBox2.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox2.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Size = New System.Drawing.Size(243, 184)
+        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.PictureBox2.TabIndex = 21
+        Me.PictureBox2.TabStop = False
+        '
+        'Panel4
+        '
+        Me.Panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel4.Controls.Add(Me.Label20)
+        Me.Panel4.Controls.Add(Me.Button4)
+        Me.Panel4.Controls.Add(Me.prodqty4)
+        Me.Panel4.Controls.Add(Me.prodname4)
+        Me.Panel4.Controls.Add(Me.prodprice4)
+        Me.Panel4.Controls.Add(Me.PictureBox3)
+        Me.Panel4.Location = New System.Drawing.Point(1012, 59)
+        Me.Panel4.Name = "Panel4"
+        Me.Panel4.Size = New System.Drawing.Size(297, 241)
+        Me.Panel4.TabIndex = 40
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label20.Location = New System.Drawing.Point(114, 214)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(35, 19)
+        Me.Label20.TabIndex = 54
+        Me.Label20.Text = "Qty:"
+        '
+        'Button4
+        '
+        Me.Button4.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button4.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button4.Location = New System.Drawing.Point(193, 215)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(103, 25)
+        Me.Button4.TabIndex = 40
+        Me.Button4.Text = "Shop Now"
+        Me.Button4.UseVisualStyleBackColor = False
+        '
+        'prodqty4
+        '
+        Me.prodqty4.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty4.Location = New System.Drawing.Point(145, 211)
+        Me.prodqty4.Name = "prodqty4"
+        Me.prodqty4.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty4.TabIndex = 53
+        '
+        'prodname4
+        '
+        Me.prodname4.AutoSize = True
+        Me.prodname4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname4.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname4.Location = New System.Drawing.Point(27, 190)
+        Me.prodname4.Name = "prodname4"
+        Me.prodname4.Size = New System.Drawing.Size(243, 21)
+        Me.prodname4.TabIndex = 31
+        Me.prodname4.Text = "Best Brother Ever Wooden stand        "
+        '
+        'prodprice4
+        '
+        Me.prodprice4.AutoSize = True
+        Me.prodprice4.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice4.Location = New System.Drawing.Point(32, 211)
+        Me.prodprice4.Name = "prodprice4"
+        Me.prodprice4.Size = New System.Drawing.Size(52, 19)
+        Me.prodprice4.TabIndex = 52
+        Me.prodprice4.Text = "499.00"
+        '
+        'PictureBox3
+        '
+        Me.PictureBox3.Image = Global.Magic_Gift.My.Resources.Resources.Brother_8
+        Me.PictureBox3.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox3.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox3.Name = "PictureBox3"
+        Me.PictureBox3.Size = New System.Drawing.Size(243, 184)
+        Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.PictureBox3.TabIndex = 21
+        Me.PictureBox3.TabStop = False
+        '
+        'Panel5
+        '
+        Me.Panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel5.Controls.Add(Me.Label14)
+        Me.Panel5.Controls.Add(Me.Button5)
+        Me.Panel5.Controls.Add(Me.prodqty5)
+        Me.Panel5.Controls.Add(Me.prodname5)
+        Me.Panel5.Controls.Add(Me.prodprice5)
+        Me.Panel5.Controls.Add(Me.PictureBox4)
+        Me.Panel5.Location = New System.Drawing.Point(23, 309)
+        Me.Panel5.Name = "Panel5"
+        Me.Panel5.Size = New System.Drawing.Size(297, 245)
+        Me.Panel5.TabIndex = 41
+        '
+        'Label14
+        '
+        Me.Label14.AutoSize = True
+        Me.Label14.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label14.Location = New System.Drawing.Point(115, 215)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(35, 19)
+        Me.Label14.TabIndex = 63
+        Me.Label14.Text = "Qty:"
+        '
+        'Button5
+        '
+        Me.Button5.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button5.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button5.Location = New System.Drawing.Point(189, 216)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(103, 25)
+        Me.Button5.TabIndex = 40
+        Me.Button5.Text = "Shop Now"
+        Me.Button5.UseVisualStyleBackColor = False
+        '
+        'prodqty5
+        '
+        Me.prodqty5.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty5.Location = New System.Drawing.Point(146, 212)
+        Me.prodqty5.Name = "prodqty5"
+        Me.prodqty5.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty5.TabIndex = 62
+        '
+        'prodname5
+        '
+        Me.prodname5.AutoSize = True
+        Me.prodname5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname5.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname5.Location = New System.Drawing.Point(27, 191)
+        Me.prodname5.Name = "prodname5"
+        Me.prodname5.Size = New System.Drawing.Size(227, 21)
+        Me.prodname5.TabIndex = 31
+        Me.prodname5.Text = "Photo Frame for Brother's              "
+        '
+        'prodprice5
+        '
+        Me.prodprice5.AutoSize = True
+        Me.prodprice5.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice5.Location = New System.Drawing.Point(33, 212)
+        Me.prodprice5.Name = "prodprice5"
+        Me.prodprice5.Size = New System.Drawing.Size(52, 19)
+        Me.prodprice5.TabIndex = 61
+        Me.prodprice5.Text = "140.00"
+        '
+        'PictureBox4
+        '
+        Me.PictureBox4.Image = Global.Magic_Gift.My.Resources.Resources.Brother_11
+        Me.PictureBox4.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox4.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox4.Name = "PictureBox4"
+        Me.PictureBox4.Size = New System.Drawing.Size(243, 185)
+        Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.PictureBox4.TabIndex = 21
+        Me.PictureBox4.TabStop = False
+        '
+        'Panel6
+        '
+        Me.Panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel6.Controls.Add(Me.Label16)
+        Me.Panel6.Controls.Add(Me.Button6)
+        Me.Panel6.Controls.Add(Me.prodqty6)
+        Me.Panel6.Controls.Add(Me.prodname6)
+        Me.Panel6.Controls.Add(Me.prodprice6)
+        Me.Panel6.Controls.Add(Me.PictureBox6)
+        Me.Panel6.Location = New System.Drawing.Point(348, 309)
+        Me.Panel6.Name = "Panel6"
+        Me.Panel6.Size = New System.Drawing.Size(297, 245)
+        Me.Panel6.TabIndex = 42
+        '
+        'Label16
+        '
+        Me.Label16.AutoSize = True
+        Me.Label16.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label16.Location = New System.Drawing.Point(116, 215)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(35, 19)
+        Me.Label16.TabIndex = 66
+        Me.Label16.Text = "Qty:"
+        '
+        'Button6
+        '
+        Me.Button6.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button6.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.Location = New System.Drawing.Point(193, 216)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(103, 25)
+        Me.Button6.TabIndex = 40
+        Me.Button6.Text = "Shop Now"
+        Me.Button6.UseVisualStyleBackColor = False
+        '
+        'prodqty6
+        '
+        Me.prodqty6.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty6.Location = New System.Drawing.Point(147, 212)
+        Me.prodqty6.Name = "prodqty6"
+        Me.prodqty6.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty6.TabIndex = 65
+        '
+        'prodname6
+        '
+        Me.prodname6.AutoSize = True
+        Me.prodname6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname6.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname6.Location = New System.Drawing.Point(27, 191)
+        Me.prodname6.Name = "prodname6"
+        Me.prodname6.Size = New System.Drawing.Size(225, 21)
+        Me.prodname6.TabIndex = 31
+        Me.prodname6.Text = "Heartfelt Big Brother Gift               "
+        '
+        'prodprice6
+        '
+        Me.prodprice6.AutoSize = True
+        Me.prodprice6.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice6.Location = New System.Drawing.Point(34, 212)
+        Me.prodprice6.Name = "prodprice6"
+        Me.prodprice6.Size = New System.Drawing.Size(44, 19)
+        Me.prodprice6.TabIndex = 64
+        Me.prodprice6.Text = "99.00"
+        '
+        'PictureBox6
+        '
+        Me.PictureBox6.Image = Global.Magic_Gift.My.Resources.Resources.Brother_14
+        Me.PictureBox6.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox6.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox6.Name = "PictureBox6"
+        Me.PictureBox6.Size = New System.Drawing.Size(243, 185)
+        Me.PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.PictureBox6.TabIndex = 21
+        Me.PictureBox6.TabStop = False
+        '
+        'Panel7
+        '
+        Me.Panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel7.Controls.Add(Me.Label18)
+        Me.Panel7.Controls.Add(Me.Button7)
+        Me.Panel7.Controls.Add(Me.prodqty7)
+        Me.Panel7.Controls.Add(Me.prodname7)
+        Me.Panel7.Controls.Add(Me.prodprice7)
+        Me.Panel7.Controls.Add(Me.PictureBox7)
+        Me.Panel7.Location = New System.Drawing.Point(685, 306)
+        Me.Panel7.Name = "Panel7"
+        Me.Panel7.Size = New System.Drawing.Size(297, 245)
+        Me.Panel7.TabIndex = 43
+        '
+        'Label18
+        '
+        Me.Label18.AutoSize = True
+        Me.Label18.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label18.Location = New System.Drawing.Point(115, 212)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(35, 19)
+        Me.Label18.TabIndex = 69
+        Me.Label18.Text = "Qty:"
+        '
+        'Button7
+        '
+        Me.Button7.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button7.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button7.Location = New System.Drawing.Point(193, 216)
+        Me.Button7.Name = "Button7"
+        Me.Button7.Size = New System.Drawing.Size(103, 25)
+        Me.Button7.TabIndex = 40
+        Me.Button7.Text = "Shop Now"
+        Me.Button7.UseVisualStyleBackColor = False
+        '
+        'prodqty7
+        '
+        Me.prodqty7.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty7.Location = New System.Drawing.Point(146, 209)
+        Me.prodqty7.Name = "prodqty7"
+        Me.prodqty7.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty7.TabIndex = 68
+        '
+        'prodname7
+        '
+        Me.prodname7.AutoSize = True
+        Me.prodname7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname7.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname7.Location = New System.Drawing.Point(27, 191)
+        Me.prodname7.Name = "prodname7"
+        Me.prodname7.Size = New System.Drawing.Size(224, 21)
+        Me.prodname7.TabIndex = 31
+        Me.prodname7.Text = "Handmade Greeting Card              "
+        '
+        'prodprice7
+        '
+        Me.prodprice7.AutoSize = True
+        Me.prodprice7.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice7.Location = New System.Drawing.Point(33, 209)
+        Me.prodprice7.Name = "prodprice7"
+        Me.prodprice7.Size = New System.Drawing.Size(52, 19)
+        Me.prodprice7.TabIndex = 67
+        Me.prodprice7.Text = "320.00"
+        '
+        'PictureBox7
+        '
+        Me.PictureBox7.Image = Global.Magic_Gift.My.Resources.Resources.Brother_5
+        Me.PictureBox7.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox7.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox7.Name = "PictureBox7"
+        Me.PictureBox7.Size = New System.Drawing.Size(243, 185)
+        Me.PictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.PictureBox7.TabIndex = 21
+        Me.PictureBox7.TabStop = False
+        '
+        'Panel8
+        '
+        Me.Panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel8.Controls.Add(Me.Label22)
+        Me.Panel8.Controls.Add(Me.Button8)
+        Me.Panel8.Controls.Add(Me.prodqty8)
+        Me.Panel8.Controls.Add(Me.prodname8)
+        Me.Panel8.Controls.Add(Me.prodprice8)
+        Me.Panel8.Controls.Add(Me.PictureBox8)
+        Me.Panel8.Location = New System.Drawing.Point(1012, 303)
+        Me.Panel8.Name = "Panel8"
+        Me.Panel8.Size = New System.Drawing.Size(297, 245)
+        Me.Panel8.TabIndex = 44
+        '
+        'Label22
+        '
+        Me.Label22.AutoSize = True
+        Me.Label22.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label22.Location = New System.Drawing.Point(114, 215)
+        Me.Label22.Name = "Label22"
+        Me.Label22.Size = New System.Drawing.Size(35, 19)
+        Me.Label22.TabIndex = 57
+        Me.Label22.Text = "Qty:"
+        '
+        'Button8
+        '
+        Me.Button8.BackColor = System.Drawing.Color.BurlyWood
+        Me.Button8.Font = New System.Drawing.Font("Lucida Bright", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button8.Location = New System.Drawing.Point(189, 216)
+        Me.Button8.Name = "Button8"
+        Me.Button8.Size = New System.Drawing.Size(103, 25)
+        Me.Button8.TabIndex = 40
+        Me.Button8.Text = "Shop Now"
+        Me.Button8.UseVisualStyleBackColor = False
+        '
+        'prodqty8
+        '
+        Me.prodqty8.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodqty8.Location = New System.Drawing.Point(145, 212)
+        Me.prodqty8.Name = "prodqty8"
+        Me.prodqty8.Size = New System.Drawing.Size(30, 25)
+        Me.prodqty8.TabIndex = 56
+        '
+        'prodname8
+        '
+        Me.prodname8.AutoSize = True
+        Me.prodname8.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.prodname8.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodname8.Location = New System.Drawing.Point(27, 191)
+        Me.prodname8.Name = "prodname8"
+        Me.prodname8.Size = New System.Drawing.Size(231, 21)
+        Me.prodname8.TabIndex = 31
+        Me.prodname8.Text = "Handmade Greeting Card for bro    "
+        '
+        'prodprice8
+        '
+        Me.prodprice8.AutoSize = True
+        Me.prodprice8.Font = New System.Drawing.Font("Microsoft YaHei", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.prodprice8.Location = New System.Drawing.Point(32, 212)
+        Me.prodprice8.Name = "prodprice8"
+        Me.prodprice8.Size = New System.Drawing.Size(52, 19)
+        Me.prodprice8.TabIndex = 55
+        Me.prodprice8.Text = "282.00"
+        '
+        'PictureBox8
+        '
+        Me.PictureBox8.Image = Global.Magic_Gift.My.Resources.Resources.Brother_13
+        Me.PictureBox8.ImeMode = System.Windows.Forms.ImeMode.NoControl
+        Me.PictureBox8.Location = New System.Drawing.Point(27, 3)
+        Me.PictureBox8.Name = "PictureBox8"
+        Me.PictureBox8.Size = New System.Drawing.Size(243, 185)
+        Me.PictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox8.TabIndex = 21
+        Me.PictureBox8.TabStop = False
+        '
+        'frmBrother
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.ClientSize = New System.Drawing.Size(1340, 600)
+        Me.Controls.Add(Me.Panel8)
+        Me.Controls.Add(Me.Panel7)
+        Me.Controls.Add(Me.Panel6)
+        Me.Controls.Add(Me.Panel5)
+        Me.Controls.Add(Me.Panel4)
+        Me.Controls.Add(Me.Panel3)
+        Me.Controls.Add(Me.Panel1)
+        Me.Controls.Add(Me.lblBrother)
+        Me.Controls.Add(Me.Panel2)
+        Me.Controls.Add(Me.ShapeContainer1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Name = "frmBrother"
+        Me.Text = " "
+        Me.Panel2.ResumeLayout(False)
+        Me.Panel2.PerformLayout()
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel3.ResumeLayout(False)
+        Me.Panel3.PerformLayout()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel4.ResumeLayout(False)
+        Me.Panel4.PerformLayout()
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel5.ResumeLayout(False)
+        Me.Panel5.PerformLayout()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel6.ResumeLayout(False)
+        Me.Panel6.PerformLayout()
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel7.ResumeLayout(False)
+        Me.Panel7.PerformLayout()
+        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel8.ResumeLayout(False)
+        Me.Panel8.PerformLayout()
+        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents Panel2 As System.Windows.Forms.Panel
+    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents prodname1 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox5 As System.Windows.Forms.PictureBox
+    Friend WithEvents lblBrother As System.Windows.Forms.Label
+    Friend WithEvents LineShape1 As Microsoft.VisualBasic.PowerPacks.LineShape
+    Friend WithEvents ShapeContainer1 As Microsoft.VisualBasic.PowerPacks.ShapeContainer
+    Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents Button2 As System.Windows.Forms.Button
+    Friend WithEvents prodname2 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
+    Friend WithEvents Panel3 As System.Windows.Forms.Panel
+    Friend WithEvents Button3 As System.Windows.Forms.Button
+    Friend WithEvents prodname3 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox2 As System.Windows.Forms.PictureBox
+    Friend WithEvents Panel4 As System.Windows.Forms.Panel
+    Friend WithEvents Button4 As System.Windows.Forms.Button
+    Friend WithEvents prodname4 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox3 As System.Windows.Forms.PictureBox
+    Friend WithEvents Panel5 As System.Windows.Forms.Panel
+    Friend WithEvents Button5 As System.Windows.Forms.Button
+    Friend WithEvents prodname5 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox4 As System.Windows.Forms.PictureBox
+    Friend WithEvents Panel6 As System.Windows.Forms.Panel
+    Friend WithEvents Button6 As System.Windows.Forms.Button
+    Friend WithEvents prodname6 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox6 As System.Windows.Forms.PictureBox
+    Friend WithEvents Panel7 As System.Windows.Forms.Panel
+    Friend WithEvents Button7 As System.Windows.Forms.Button
+    Friend WithEvents prodname7 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox7 As System.Windows.Forms.PictureBox
+    Friend WithEvents Panel8 As System.Windows.Forms.Panel
+    Friend WithEvents Button8 As System.Windows.Forms.Button
+    Friend WithEvents prodname8 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox8 As System.Windows.Forms.PictureBox
+    Friend WithEvents Label12 As System.Windows.Forms.Label
+    Friend WithEvents prodqty1 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice1 As System.Windows.Forms.Label
+    Friend WithEvents Label9 As System.Windows.Forms.Label
+    Friend WithEvents prodqty2 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice2 As System.Windows.Forms.Label
+    Friend WithEvents Label11 As System.Windows.Forms.Label
+    Friend WithEvents prodqty3 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice3 As System.Windows.Forms.Label
+    Friend WithEvents Label20 As System.Windows.Forms.Label
+    Friend WithEvents prodqty4 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice4 As System.Windows.Forms.Label
+    Friend WithEvents Label14 As System.Windows.Forms.Label
+    Friend WithEvents prodqty5 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice5 As System.Windows.Forms.Label
+    Friend WithEvents Label16 As System.Windows.Forms.Label
+    Friend WithEvents prodqty6 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice6 As System.Windows.Forms.Label
+    Friend WithEvents Label18 As System.Windows.Forms.Label
+    Friend WithEvents prodqty7 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice7 As System.Windows.Forms.Label
+    Friend WithEvents Label22 As System.Windows.Forms.Label
+    Friend WithEvents prodqty8 As System.Windows.Forms.TextBox
+    Friend WithEvents prodprice8 As System.Windows.Forms.Label
+End Class
