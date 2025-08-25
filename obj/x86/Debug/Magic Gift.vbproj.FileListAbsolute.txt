@@ -1,0 +1,319 @@
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\bin\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\bin\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\bin\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\obj\x86\Debug\Magic_Gift.Form1.resources
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\obj\x86\Debug\Magic_Gift.Resources.resources
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\AppData\Local\Temporary Projects\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Magic Gift\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Magic Gift\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Magic Gift\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\documents\visual studio 2010\Projects\Magic Gift\Magic Gift\bin\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\documents\visual studio 2010\Projects\Magic Gift\Magic Gift\bin\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\documents\visual studio 2010\Projects\Magic Gift\Magic Gift\bin\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\documents\visual studio 2010\Projects\Magic Gift\Magic Gift\obj\x86\Debug\Magic_Gift.Resources.resources
+C:\Users\AAYUSHI SHARMA\documents\visual studio 2010\Projects\Magic Gift\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Magic Gift\Magic Gift\obj\x86\Debug\Magic_Gift.MagicGiftfrm.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Magic Gift\Magic Gift\obj\x86\Debug\Magic_Gift.Form2.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form2.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Resources.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\bin\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\bin\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\bin\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form3.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form4.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form5.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.frmMagicGift.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form6.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form7.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form8.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form9.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form10.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form11.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form12.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form13.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form14.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form15.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form16.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form17.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form18.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form19.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form20.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form21.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form22.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form23.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form24.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form25.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form26.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form27.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form28.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form29.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form30.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg\Magic Gift\obj\x86\Debug\Magic_Gift.Form31.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\bin\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\bin\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\bin\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMagicGift.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form10.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form11.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form12.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form13.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form14.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form15.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form16.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form17.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form18.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form19.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form2.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form20.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form21.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form22.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form23.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form24.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form25.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form26.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form27.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form28.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form29.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form3.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form30.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form31.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form4.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form5.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form6.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form7.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form8.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form9.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Resources.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form32.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form33.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form34.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.pdb
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMagicGift.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Resources.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+E:\vb\Mg - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.exe
+E:\vb\Mg - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.pdb
+E:\vb\Mg - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.xml
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMagicGift.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form10.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form11.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form12.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form13.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form14.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form15.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form16.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form17.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form18.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form19.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form2.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form20.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form21.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form22.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form23.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form24.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form25.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form26.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form27.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form28.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form29.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form3.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form30.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form31.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form32.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form33.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form34.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form4.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form5.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form6.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form7.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form8.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form9.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Resources.resources
+E:\vb\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form35.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSister.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMother.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmDaughter.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmGirlfriend.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmRakhi.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBottle.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMugs.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHomeDecorWall.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHandmadeProducts.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmClock.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignin.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmLamps.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmKeyrings.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPen.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPendent.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWallet.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAccessories.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMobilecover.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPencilart.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmShowpiece.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmTravelAcc.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAnniversary.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHusband.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWife.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignup.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmOrder.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAboutus.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBirthday.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBrother.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmFather.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSon.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBoyfriend.resources
+C:\Users\AAYUSHI SHARMA\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmResinart.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMagicGift.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSister.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMother.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmDaughter.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmGirlfriend.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmRakhi.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBottle.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMugs.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHomeDecorWall.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHandmadeProducts.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmClock.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignin.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmLamps.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmKeyrings.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPen.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPendent.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWallet.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAccessories.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMobilecover.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPencilart.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmShowpiece.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmTravelAcc.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAnniversary.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHusband.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWife.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignup.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmOrder.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAboutus.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form35.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBirthday.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBrother.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmFather.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSon.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBoyfriend.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmResinart.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Resources.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.accdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.exe.config
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\Mg - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.xml
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.exe.config
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMagicGift.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSister.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMother.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmDaughter.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmGirlfriend.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmRakhi.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBottle.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMugs.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHomeDecorWall.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHandmadeProducts.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmClock.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignin.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmLamps.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmKeyrings.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPen.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPendent.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWallet.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAccessories.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMobilecover.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPencilart.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmShowpiece.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmTravelAcc.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAnniversary.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHusband.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWife.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignup.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmOrder.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAboutus.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form35.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBirthday.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBrother.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmFather.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSon.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBoyfriend.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmResinart.resources
+H:\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.exe.config
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMagicGift.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSister.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMother.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmDaughter.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmGirlfriend.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmRakhi.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBottle.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMugs.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHomeDecorWall.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHandmadeProducts.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmClock.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignin.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmLamps.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmKeyrings.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPen.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPendent.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWallet.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAccessories.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmMobilecover.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmPencilart.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmShowpiece.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmTravelAcc.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAnniversary.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmHusband.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmWife.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSignup.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmOrder.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmAboutus.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.Form35.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBirthday.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBrother.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmFather.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmSon.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmBoyfriend.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic_Gift.frmResinart.resources
+E:\Supermarket\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.vbproj.GenerateResource.Cache
+C:\Users\AAYUSHI SHARMA\Documents\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\bin\Debug\Magic Gift.exe.config
+C:\Users\AAYUSHI SHARMA\Documents\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.exe
+C:\Users\AAYUSHI SHARMA\Documents\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.xml
+C:\Users\AAYUSHI SHARMA\Documents\Mg - Copy - Copy - Copy - Copy - Copy\Magic Gift\obj\x86\Debug\Magic Gift.pdb
