@@ -1,0 +1,1329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{087E708E-5B6E-4A88-A302-DD13B2BAE629}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Magic_Gift.My.MyApplication</StartupObject>
+    <RootNamespace>Magic_Gift</RootNamespace>
+    <AssemblyName>Magic Gift</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Magic Gift.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Magic Gift.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Details.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.Designer.vb">
+      <DependentUpon>Form10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.vb">
+      <DependentUpon>Form11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12.Designer.vb">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13.Designer.vb">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14.Designer.vb">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form15.Designer.vb">
+      <DependentUpon>Form15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form16.Designer.vb">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form17.Designer.vb">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form18.Designer.vb">
+      <DependentUpon>Form18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form19.Designer.vb">
+      <DependentUpon>Form19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form20.Designer.vb">
+      <DependentUpon>Form20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form21.Designer.vb">
+      <DependentUpon>Form21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form22.Designer.vb">
+      <DependentUpon>Form22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form23.Designer.vb">
+      <DependentUpon>Form23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form24.Designer.vb">
+      <DependentUpon>Form24.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form24.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form25.Designer.vb">
+      <DependentUpon>Form25.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form25.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form26.Designer.vb">
+      <DependentUpon>Form26.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form26.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form27.Designer.vb">
+      <DependentUpon>Form27.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form27.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form28.Designer.vb">
+      <DependentUpon>Form28.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form28.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form29.Designer.vb">
+      <DependentUpon>Form29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form30.Designer.vb">
+      <DependentUpon>Form30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form31.Designer.vb">
+      <DependentUpon>Form31.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form31.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form32.Designer.vb">
+      <DependentUpon>Form32.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form32.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form33.Designer.vb">
+      <DependentUpon>Form33.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form33.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form34.Designer.vb">
+      <DependentUpon>Form34.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form34.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form35.Designer.vb">
+      <DependentUpon>Form35.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form35.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.vb">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.vb">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.vb">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.vb">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Magic_GiftDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Magic_GiftDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12.resx">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13.resx">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14.resx">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form15.resx">
+      <DependentUpon>Form15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form16.resx">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form17.resx">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form18.resx">
+      <DependentUpon>Form18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form19.resx">
+      <DependentUpon>Form19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form20.resx">
+      <DependentUpon>Form20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form21.resx">
+      <DependentUpon>Form21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form22.resx">
+      <DependentUpon>Form22.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form23.resx">
+      <DependentUpon>Form23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form24.resx">
+      <DependentUpon>Form24.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form25.resx">
+      <DependentUpon>Form25.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form26.resx">
+      <DependentUpon>Form26.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form27.resx">
+      <DependentUpon>Form27.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form28.resx">
+      <DependentUpon>Form28.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form29.resx">
+      <DependentUpon>Form29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form30.resx">
+      <DependentUpon>Form30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form31.resx">
+      <DependentUpon>Form31.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form32.resx">
+      <DependentUpon>Form32.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form33.resx">
+      <DependentUpon>Form33.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form34.resx">
+      <DependentUpon>Form34.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form35.resx">
+      <DependentUpon>Form35.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Magic_GiftDataSet.xsc">
+      <DependentUpon>Magic_GiftDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Magic_GiftDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Magic_GiftDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Magic_GiftDataSet.xss">
+      <DependentUpon>Magic_GiftDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic-gift-logo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic-gift--logo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic-gift--logo1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login icon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cart icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anniversary 131.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brother 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Son 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resin Art 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sister 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rakhi 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 51.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle 9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mug 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 91.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Deco 92.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Handmade Product 71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow Lamp 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyring 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pendent 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile cover 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil Art 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lines.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Father3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoyFriend8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Husband8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother31.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Daughter8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GirlFriend3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wife9.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle81.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle71.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lifestyle6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Showpiece8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel8.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_To_Cart.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About Us.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About Us_page-0001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About Us_page-0002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About Us_page-00021.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About Us_page-00011.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About Us_page-00022.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shipping.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_992700.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email_542689.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_3177361.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smartphone_23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Magic Gift.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
